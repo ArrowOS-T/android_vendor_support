@@ -28,6 +28,8 @@
     <string name="color_default">Default</string>
     <string name="edit_hint">Value</string>
     <string name="seek_value_edit_label">Set value</string>
+    <string name="led_color_green">Green</string>
+    <string name="led_color_red">Red</string>
 
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
